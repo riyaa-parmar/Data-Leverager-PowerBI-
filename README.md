@@ -78,5 +78,14 @@ This project demonstrates data transformation and preparation using Power Query 
 - Excel datasets
 - Project Report (PDF)
 
-## 📬 Author
-Riya Parmar
+## 👩‍💻 Author
+
+**Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
+---
+
+⭐ If you find these projects useful, consider **starring the repository**!
+
